@@ -38,6 +38,7 @@ h1, h5 {
 
 .navbar {
     background-color: #484743 !important;
+   
 }
 
 
@@ -78,6 +79,7 @@ h1, h5 {
 
 #footer {
     background-color: #484743;
+ 
 }
 
 .card {
@@ -86,9 +88,19 @@ h1, h5 {
 }
 
 .borderWrap {
-    max-width: 250px;
+max-width: 100%;
   padding: 1rem;
   position: relative;
   background: linear-gradient(to bottom,#ed9c0a, #9dc2fe, #76d5c1);
   padding: 3px;
 }
+
+ .borderWrap1 {
+    max-width: 100%;
+  padding: 1rem;
+  position: relative;
+  border-image: linear-gradient(to right, #ed9c0a, #9dc2fe, #76d5c1) !important;
+  padding: 3px;
+ }
+
+ 
