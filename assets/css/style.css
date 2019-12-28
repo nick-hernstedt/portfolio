@@ -3,8 +3,10 @@ body {
     background-size: 100%;
 }
 
+
+
 .jumbotron {
-    background-image: url(../images/check\ it\ out.png);
+    background-image: url(../images/check2.png);
     height: 350px;
     background-size: 100% 100%;
    
@@ -78,3 +80,8 @@ h1 {
 .button-og {
     color: #ed9c0a;
 }
+
+#footer {
+    background-color: #484743;
+}
+
