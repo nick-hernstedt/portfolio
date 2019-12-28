@@ -22,4 +22,18 @@ p {
 
 a {
     font-family: 'Major Mono Display', monospace;
+  
+    
+}
+
+.navbar {
+    background-color: #484743 !important;
+}
+
+.nav-item {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
 }
