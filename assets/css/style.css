@@ -54,7 +54,8 @@ h1 {
 }
 
 .card-body {
-    background-color: #b8b8ba;
+    background-color: #959595;
+    /* background-color: #b8b8ba; */
     border: none;
 }
 
