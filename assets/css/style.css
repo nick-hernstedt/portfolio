@@ -16,6 +16,8 @@ body {
 
 #selfie {
     border-radius: 10%;
+   
+
 }
 
 p {
@@ -83,3 +85,10 @@ h1, h5 {
    
 }
 
+.borderWrap {
+    max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to bottom,#ed9c0a, #9dc2fe, #76d5c1);
+  padding: 3px;
+}
