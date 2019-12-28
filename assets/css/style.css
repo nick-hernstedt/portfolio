@@ -25,6 +25,10 @@ p {
     font-family: 'B612 Mono', monospace;
 }
 
+.b6font {
+font-family: 'B612 Mono', monospace;
+}
+
 a {
    font-family: 'B612 Mono', monospace;
    
@@ -79,6 +83,7 @@ h1, h5 {
 
 #footer {
     background-color: #484743;
+    
  
 }
 
@@ -95,12 +100,18 @@ max-width: 100%;
   padding: 3px;
 }
 
- .borderWrap1 {
-    max-width: 100%;
-  padding: 1rem;
-  position: relative;
-  border-image: linear-gradient(to right, #ed9c0a, #9dc2fe, #76d5c1) !important;
-  padding: 3px;
- }
+#contactButton {
+/* background-color: #959595;
+color: white; */
+width: 100%;
+background: linear-gradient(to right,#ed9c0a, #9dc2fe, #76d5c1);
+height: 50px;
+font-family: 'Comfortaa', cursive;
+font-size: larger;
 
- 
+}
+
+#contactForm {
+
+    height: 500px;
+}
