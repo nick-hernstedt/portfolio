@@ -6,8 +6,10 @@ body {
 
 .mainBox {
     border-radius: 10%;
-    background-color: #e5e5e3;
+    background-color: #484743;
     border: 3px solid;
+    color: white;
+    border: #343233 solid 5px;
 }
 
 #selfie {
