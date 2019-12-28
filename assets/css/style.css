@@ -17,13 +17,24 @@ body {
 }
 
 p {
-    font-family: 'Roboto Mono', monospace;
+    /* font-family: 'Roboto Mono', monospace; */
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-family: 'Play', sans-serif; */
+    font-family: 'B612 Mono', monospace;
 }
 
 a {
-    font-family: 'Major Mono Display', monospace;
-  
+   font-family: 'B612 Mono', monospace;
+   /* font-family: 'Play', sans-serif; */
     
+}
+
+h1 {
+    /* font-family: 'Play', sans-serif; */ 
+    /* font-family: 'Bungee Inline', cursive; */
+    /* font-family: 'Wallpoet', cursive; */
+    /* font-family: 'Nova Slim', cursive; */
+    font-family: 'Buda', cursive;
 }
 
 .navbar {
