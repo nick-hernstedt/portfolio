@@ -96,6 +96,21 @@ h1, h5 {
     color: #ed9c0a;
 }
 
+.button-og:hover {
+    background-color: #ed9c0a;
+    color: #484743;
+}
+
+.button-gr:hover {
+    background-color: #76d5c1;
+    color: #484743;
+}
+
+.button-bl:hover {
+    background-color: #9dc2fe;
+    color: #484743;
+}
+
 #footer {
     background-color: #484743;
     
