@@ -1,0 +1,11 @@
+body {
+    background-image: url(../images/3suns.jpg);
+    background-size: 100%;
+}
+
+
+.mainBox {
+    border-radius: 10%;
+    background-color: #fe9f2f;
+    border: 15px solid;
+}
