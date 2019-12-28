@@ -5,14 +5,6 @@ body {
 
 
 
-.jumbotron {
-    background-image: url(../images/check2.png);
-    height: 350px;
-    background-size: 100% 100%;
-   
-
-}
-
 
 .mainBox {
     border-radius: 10%;
@@ -83,5 +75,10 @@ h1 {
 
 #footer {
     background-color: #484743;
+}
+
+.card {
+    border: #484743 2px solid;
+   
 }
 
