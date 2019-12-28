@@ -58,6 +58,21 @@ h1, h5 {
     color:  #76d5c1;
 }
 
+#topName:hover {
+    background-color: #ed9c0a;
+    color: #484743;
+}
+
+#portfolio1:hover {
+    background-color: #9dc2fe;
+    color: #484743;
+}
+
+#contact1:hover {
+    background-color: #76d5c1;
+    color: #484743;
+}
+
 .btn {
     background-color: #484743;
     border: #343233 solid 2px;
@@ -115,3 +130,4 @@ font-size: larger;
 
     height: 600px;
 }
+
