@@ -28,8 +28,7 @@ a {
 }
 
 h1 {
-    font-family: 'B612 Mono', monospace;
-   
+    font-family: 'Comfortaa', cursive;
 }
 
 .navbar {
@@ -47,4 +46,26 @@ h1 {
 
 #contact1 {
     color:  #76d5c1;
+}
+
+.btn {
+    background-color: #484743;
+    border: #343233 solid 2px;
+}
+
+.card-body {
+    background-color: #b8b8ba;
+    border: none;
+}
+
+.button-bl {
+    color: #9dc2fe;
+}
+
+.button-gr {
+    color: #76d5c1;
+}
+
+.button-og {
+    color: #ed9c0a;
 }
