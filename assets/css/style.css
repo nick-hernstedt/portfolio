@@ -29,8 +29,9 @@ a {
     
 }
 
-h1 {
+h1, h5 {
     font-family: 'Comfortaa', cursive;
+  
 }
 
 .navbar {
