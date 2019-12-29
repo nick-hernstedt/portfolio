@@ -148,6 +148,10 @@ font-size: larger;
 
 }
 
+#contactButton:hover {
+    color: red;
+}
+
 #contactForm {
 
     height: 600px;
