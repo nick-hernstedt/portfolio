@@ -1,7 +1,9 @@
 # portfolio
 
-I deployed this website on github.
 https://nick-hernstedt.github.io/portfolio/
+
+I deployed this website on github.
+
 Built With
 
 HTML
